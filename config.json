@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "Токен 1",
-    "Токен 2",
-    "Токен 3"
+    "d11589340f67756a63a5e3ed691ef3729fe49ea5faed6a42329e4ff65dd09e5c5346df095e060241be061",
+    "01271ede24a15127dcc7474fb9232c5b0494de66edc28266e26ded573973954eaf2f0a414b41296ada93a",
+    "61b3ceff33e66049034cf4625e260e1002c47e5259038c1d79516a54ee4e446755652d6031620a2ec5310"
   ],
-  "secret_code": "",
+  "secret_code": "s9jjljpvb",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
